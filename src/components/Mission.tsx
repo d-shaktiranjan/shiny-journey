@@ -13,7 +13,7 @@ export const Mission = () => {
           name="keywords"
           content="WoodCrafts mission, sustainable products, eco-friendly wooden items, craftsmanship"
         />
-        <link rel="canonical" href="https://www.yoursite.com/mission" />
+        <link rel="canonical" href="http://4.188.76.210/mission" />
       </Helmet>
 
       <div className="container mx-auto">

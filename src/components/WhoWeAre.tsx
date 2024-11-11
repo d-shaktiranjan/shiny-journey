@@ -13,7 +13,7 @@ export const WhoWeAre = () => {
           name="keywords"
           content="WoodCrafts team, artisans, woodworkers, craftsmanship, handcrafted products"
         />
-        <link rel="canonical" href="https://www.yoursite.com/who-we-are" />
+        <link rel="canonical" href="http://4.188.76.210/who-we-are" />
       </Helmet>
 
       <div className="container mx-auto">

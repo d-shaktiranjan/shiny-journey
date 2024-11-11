@@ -14,7 +14,7 @@ export const About = () => {
           name="keywords"
           content="about WoodCrafts, handcrafted wood, sustainable craftsmanship, wooden products"
         />
-        <link rel="canonical" href="https://www.yoursite.com/about" />
+        <link rel="canonical" href="http://4.188.76.210/about" />
       </Helmet>
 
       <div className="container mx-auto">
