@@ -1,7 +1,6 @@
 import { Helmet } from "react-helmet-async";
 
 export const About = () => {
-  document.title = "WoodCrafts Co. | About Page";
   return (
     <section id="about" className="py-12 px-6 md:px-12 bg-white">
       <Helmet>
